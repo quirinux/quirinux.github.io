@@ -2,7 +2,7 @@
 # https://github.com/gayanvirajith/gaya
 title: --Help
 tagline: onde as respostas estão, mesmo sendo o ultimo lugar a ser visto
-email: 
+email: quirinux@icloud.com
 description: > # this means to ignore newlines until "baseurl:"
     Se liga ai no que mais de interessante a ser visto
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -20,7 +20,7 @@ theme:
     #twitter: gayanvirajith
     #facebook: gayanvirajith
     #gplus: +gayanvirajith
-    # dribble: gayanvirajith
+    #dribble: gayanvirajith
     #pinterest: gayanvirajith
 
   # Enable share buttons on post footer
@@ -33,7 +33,7 @@ theme:
   # disqus_shortname: gaya-webcreate
 
   # Google Analytics/Webmaster key, leave blank to ignore
-  google_analytics_key: 
+  google_analytics_key: UA-67765919-1
   google_webmaster_key: 
 
 # Build settings
